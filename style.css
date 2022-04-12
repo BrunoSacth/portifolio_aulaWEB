@@ -1,0 +1,46 @@
+body{
+    background-color: black;
+}
+.segundoFundo{
+ background-color: burlywood;
+ margin: 60px;
+}
+.margin{
+    margin-left: 40px;
+}
+.titulo{
+    color: black;
+    font-weight: 700;
+    font-family: sans-serif;
+    margin-top: 60px;
+}
+.paragrafo{
+    color: rgb(255, 255, 255);
+    font-weight: 400;
+    font-family: sans-serif;
+}
+#fotoPerfil{
+    border: 2px solid black;
+    box-shadow: black solid 5px 2px 5px;
+    border-radius: 100%;
+    margin-right: 20px;
+    margin-top: 60px;
+    width: 200px;
+    
+}
+.titulo.nome{
+    margin-top: 150px;
+    font-size: 50px;
+}
+.contato{
+    color: rgb(0, 0, 0);
+    font-weight: 700;
+    font-family: sans-serif;
+}
+.inicio{
+    display: flex;
+   
+}
+.footer{
+    padding-bottom: 40px;
+}
